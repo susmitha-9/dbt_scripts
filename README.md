@@ -1,2 +1,2 @@
-DBT project practice scripts!
+DBT project scripts!
 
