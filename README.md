@@ -1,3 +1,1 @@
-**DBT project scripts!
-
-**
+**DBT project scripts!**
